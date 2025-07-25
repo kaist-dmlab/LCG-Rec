@@ -20,6 +20,6 @@ This process results in hard and diverse candidates, improving both generalizati
 We evaluate LCG-Rec on four POI benchmarks under 5% few-shot splits. The method significantly outperforms retrieval-based baselines, achieving **+80% relative improvement in HR@1** on Yelp2018.
 
 <p align="center">
-<img src="figures/graph" width="750">
-  <img src="figures/table" width="750">
+<img src="figures/graph.png" width="750">
+  <img src="figures/table.png" width="750">
 </p>
