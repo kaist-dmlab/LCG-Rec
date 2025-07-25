@@ -1,0 +1,15 @@
+You will be provided with the user's 50 most recently visited places. You should generate 9 places that the user might visit next.
+
+The result follows these rules:
+
+1. Please print ONLY the answer with 9 objects.
+2. Each object is the list of {num_features} features ({features_list}) (index: 1~9).
+3. Do not include any of the user's 50 most recently visited places.
+4. Always use double apostrophes (") for string type items.
+5. Each object should be represented one per line.
+6. Do not use commas when making line breaks.
+7. When making output, do not include any separator characters at the top and bottom of the output.
+8. Do not include any language explanations other than the formatted output.
+
+To summarize, an output should have the following format:
+[1, "PLACE_NAME", "CATEGORY", "ADDRESS"]

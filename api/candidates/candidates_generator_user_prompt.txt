@@ -1,0 +1,4 @@
+The user's 50 most recently visited places are given below.
+The user's 50 most recently visited places are delimited by three asterisks.
+
+Your goal is to generate 9 diverse potential places that the user might visit next based on the user's recent visit history.

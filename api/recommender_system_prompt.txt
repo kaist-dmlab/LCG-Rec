@@ -1,0 +1,14 @@
+You will be provided with three sets of data: user preferences inferred from a user’s visit history, the user's 5 most recently visited places, and a list of 10 candidate places to visit.
+
+The structure of the list of 10 candidate places is as follows:
+
+1. Each line contains information about one place.
+2. Each line has {num_features} features ({features_list}).
+3. Each item corresponding to each feature is separated by a tab.
+4. Each place has an index number from 0 to 9.
+
+The result follows these rules:
+
+1. Print ONLY the index number of the selected place.
+2. Do not include any separator characters at the top and bottom of the output (e.g., ```).
+3. Do not include any language explanations other than the formatted output.
