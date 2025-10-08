@@ -1,4 +1,4 @@
-# LCG-Rec: LLM-based Candidate Generation for Few-shot Recommendation Ranking
+# LCG-Rec: Boosting LLM Few-Shot Recommendation Ranking via LLM-Based Candidate Generation
 
 ## Overview
 
